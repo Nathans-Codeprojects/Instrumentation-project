@@ -13,7 +13,7 @@ In order for both codes to run the Arduino IDE and the Matlab IDE from MathWorks
 
 References:
 
-Code was created in conjunction with Lucas Swart and Starion Fenn.
+Code was created in conjunction with Lucas Swart and Starrion Fenn.
 
 “Adafruit/Adafruit_MPU6050: Arduino Library for MPU6050.” GitHub, 15 Nov. 2023, github.com/adafruit/Adafruit_MPU6050. Accessed 10 February 2025.
 
