@@ -11,7 +11,7 @@ Software
 
 In order for both codes to run the Arduino IDE and the Matlab IDE from MathWorks must be installed. Furthermore, for the Arduino IDE open source libraries such as; the Adafruit MPU-6050, LiquidCrystal and the SD libraries were used in the development of this system.\\
 
-References
+References:
 
 Code was created in conjunction with Lucas Swart and Starion Fenn.
 
